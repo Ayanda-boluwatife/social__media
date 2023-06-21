@@ -3,8 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 # Frontend Mentor - Social media dashboard with theme switcher
-
-![Design preview for the Social media dashboard with theme switcher coding challenge](../social_media_dashboard/public/design/desktop-design-dark.jpg)
+<!-- 
+![Design preview for the Social media dashboard with theme switcher coding challenge](../social_media_dashboard/public/design/desktop-design-dark.jpg) -->
 ![](../social_media_dashboard/public/design/desktop-design-light.jpg)
 ![](../social_media_dashboard/public/design/active-states-dark.jpg)
 ![](../social_media_dashboard/public/design/active-states-light.jpg)

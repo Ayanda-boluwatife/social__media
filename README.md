@@ -3,13 +3,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 # Frontend Mentor - Social media dashboard with theme switcher
-<!-- 
-![Design preview for the Social media dashboard with theme switcher coding challenge](../social_media_dashboard/public/design/desktop-design-dark.jpg) -->
-![](../social_media_dashboard/public/design/desktop-design-light.jpg)
-![](../social_media_dashboard/public/design/active-states-dark.jpg)
-![](../social_media_dashboard/public/design/active-states-light.jpg)
-![](../social_media_dashboard/public/design/mobile-design-dark.jpg)
-![](../social_media_dashboard/public/design/mobile-design-light.jpg)
+<img src="../social_media_dashboard/public/design/desktop-design-dark.jpg" alt="" />
+<img src="../social_media_dashboard/public/design/desktop-design-light.jpg" alt="" />
+<img src="../social_media_dashboard/public/design/active-states-dark.jpg" alt="" />
+<img src="../social_media_dashboard/public/design/active-states-light.jpg" alt="" />
+<img src="../social_media_dashboard/public/design/mobile-design-dark.jpg" alt="" />
+<img src="../social_media_dashboard/public/design/mobile-design-light.jpg" alt="" />
 
 
 ## Welcome! 👋
